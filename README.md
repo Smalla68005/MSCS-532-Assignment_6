@@ -14,9 +14,12 @@ includes implenting various data structures. It includes:
 - ### Slection Algorithm
     SelectionAlgorithms.py script includes the implementaion of Deterministic Median of Medians and Randomized Quickselect Algorithms
     - Run the SelectionAlgoriths.py script.
+    - Report: SelectionAlgorithm-Report.pdf
+
 - ### Elementary Data Structures
     - ArrayImpl.py to run the array implementaion.
     - LinkedListImpl.py to run the Linked list implementaion.
     - QueueImpl.py to run the Queue implementation.
     - StackImpl.py to run the Stack implementaion.
     - RootedTreeImpl.py to run the RootedTree implementation.
+    - Report: ElementaryDataStructures.pdf
